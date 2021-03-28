@@ -1,6 +1,12 @@
 # on Boarding Adams Family
 
-This site is for the Adams Family Members to share to learn to communicate.
+This site is for the Adams Family Members to share to learn to communicate in different rooms.
+
+
+Experimental Release:
+
+[Adam Family Room](https://hubs.mozilla.com/QLZykfi/adamsfamilyvirtualroom)
+
 
 Present Release:
 
@@ -11,6 +17,9 @@ Present Release:
 [for Android Phone](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=it&gl=US)
 
 [for Android Phone - F-Droid](https://f-droid.org/en/packages/org.jitsi.meet/)
+
+# Boost Internet Speed 
+* https://speedify.com/
 
 
 # Password security
@@ -25,12 +34,23 @@ Present Release:
 * https://pindol.medium.com/premessa-1e5254a52475
 
 
+# Microjobs and Pay-to-Click (PTC) websites
+
+* Coinpayu 
+* adBTC 
+
+* Microworkers 
+* Cloudfactory 
+
+* Bitcoinget 
+* Cointasker
+
+# Sharing Links - Unstructured 
+
+hyphothesis - https://web.hypothes.is/s
+
 # Sharing Drawings - Miro - Visual Collaboration  
 * https://miro.com/
-
-Experimental Release:
-
-[virtual Reality room](https://hubs.mozilla.com/QLZykfi/adamsfamilyvirtualroom)
 
 
 Future Release:
