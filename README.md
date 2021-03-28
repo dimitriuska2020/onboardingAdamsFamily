@@ -17,19 +17,31 @@ Present Release:
 
 [keepass](https://keepass.info/download.html)
 
+# Crypto Currencies 
+
+* https://www.nicehash.com/
+* https://exchange.youngplatform.com/it/
+* https://t.me/criptovalute_italia
+* https://pindol.medium.com/premessa-1e5254a52475
+
+
 # Sharing Drawings - Miro - Visual Collaboration  
 * https://miro.com/
 
 Experimental Release:
 
-[virtual room](https://hubs.mozilla.com/QLZykfi/adamsfamilyvirtualroom)
+[virtual Reality room](https://hubs.mozilla.com/QLZykfi/adamsfamilyvirtualroom)
 
 
 Future Release:
 
+Augmented Reality Room (with glasses)
+
 [Zapbox](https://www.zappar.com/zapbox/)
 [Vuzix](https://www.vuzix.com/products/blade-smart-glasses-upgraded)
 [TeamviewerPilot](https://www.teamviewer.com/en/solutions/teamviewer-pilot-repair-and-maintenance/)
+
+Augmented Reality Room (without glasses)
 
 [RoomAlive](https://www.youtube.com/watch?v=ILb5ExBzHqw)
 * https://github.com/OpenRoomAlive/OpenRoomAlive
